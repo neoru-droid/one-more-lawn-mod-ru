@@ -1,12 +1,10 @@
 # One More Lawn - Внутриигровое мод-меню
 
-Внутриигровое русское мод-меню (`.omlmod`) и таблица Cheat Engine для **One More Lawn** (проверено на версии `1.0.3`).
-
-Мод-меню на русском языке добавляет компактную панель с быстрыми клавишами (`F1`, `Tab`, `H..9`) для настройки косилки, погоды, денег и мгновенного покоса. Достижения Steam продолжают открываться, а удалить мод можно в любой момент в один клик.
+Русское мод-меню (`.omlmod`) и таблица Cheat Engine для **One More Lawn** (версия `1.0.3`, Windows и Steam Deck). Достижения в Steam продолжают открываться.
 
 ## Скачать
-- **[Boosty - страница релиза и свежие обновления](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn)**
-- **[GitHub Releases - архив `OneMoreLawn-Trainer-RU-v1.0.zip`](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** · [Как установить](#установка)
+- **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn)**
+- **[Архивы на GitHub Releases](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** · [Как установить](#установка)
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
 
@@ -15,7 +13,7 @@
 ## Установка
 1. **Windows:** распакуйте архив и запустите `OneMoreLawn-Trainer-Setup.exe` -> **«Установить мод-меню»** (файл `neoru.trainer-ru.omlmod` автоматически установится в `%APPDATA%\One More Lawn\mods\`).
 2. **Steam Deck / Linux (Proton):** распакуйте архив и выполните `sh install-steamdeck.sh --install`.
-3. **Вручную (без `.exe`):** скопируйте `neoru.trainer-ru.omlmod` в папку модов или перетащите на окно игры в разделе **Mods**.
+3. **Вручную:** скопируйте `neoru.trainer-ru.omlmod` в папку модов или перетащите на окно игры в разделе **Mods**.
 4. В главном меню откройте **Mods**, включите **One More Lawn - Mod Menu RU**, выберите участок и нажмите **«С модами»**.
 
 ## Возможности мод-меню
@@ -42,12 +40,17 @@
 
 ![Таблица Cheat Engine для One More Lawn](docs/screenshots/ct_1.png)
 
-В разделе релизов также доступна русская таблица `OneMoreLawn_RU_v1.0.CT` (8 пунктов для скорости x2.5 / x3.5, разгона и заднего хода, лёгкой гравитации и высокого прыжка `9.8 -> 3.8`, ширины покоса 3.3 / 4.4 м, ручного подбора в памяти V8 и полного отката модификаторов).
+В разделе релизов также доступна русская таблица `OneMoreLawn_RU_v1.0.CT` (8 пунктов для скорости x2.5 / x3.5, разгона и заднего хода, лёгкой гравитации и высокого прыжка `9.8 -> 3.8`, ширины покоса 3.3 / 4.4 м и возврата обычных параметров косилки при снятии галочки).
 
 ## История обновлений
-- **[v1.0](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: официальный `.omlmod` с тремя вкладками, установщик для Windows, скрипт для Steam Deck / Linux, чистый пакет `.omlmod` и таблица `.CT`.
+- **[v1.0](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** - первый выпуск: мод-меню `.omlmod` на три вкладки, установщик для Windows, скрипт для Steam Deck / Linux и таблица `.CT`.
 
-[Все релизы](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn) · [Каталог с поиском](https://neoru-droid.github.io/)
+## Обратная связь и проекты автора
 
-## Лицензия
-[MIT](LICENSE)
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/one-more-lawn-mod-ru/issues).
+
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn) · [профиль на GitHub](https://github.com/neoru-droid)
+
+Лицензия: [MIT](LICENSE)
+
+Автор: `neoru-droid`
