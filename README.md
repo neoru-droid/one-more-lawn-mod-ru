@@ -1,6 +1,6 @@
 # One More Lawn - Внутриигровое мод-меню
 
-Русское мод-меню (`.omlmod`) и таблица Cheat Engine для **One More Lawn** (версия `1.0.3`, Windows и Steam Deck).
+Мод-меню на русском (`.omlmod`) и таблица Cheat Engine для **One More Lawn** (версия `1.0.3`, Windows и Steam Deck).
 
 ## Скачать
 - **[Страница релиза и обновления на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn)**
