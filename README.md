@@ -5,7 +5,7 @@
 В игре уже есть официальный русский язык, а мод-меню добавляет компактную панель с быстрыми клавишами (`F1`, `Tab`, `H..9`), настройкой косилки, погоды, денег и мгновенного покоса. Достижения Steam продолжают открываться как в обычной игре, а вернуть чистую игру можно в любой момент без перекачивания в Steam.
 
 ## Скачать
-- **[Boosty - страница релиза и свежие обновления](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433)**
+- **[Boosty - страница релиза и свежие обновления](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn)**
 - **[GitHub Releases - архив `OneMoreLawn-Trainer-RU-v1.0.zip`](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** · [Как установить](#установка)
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
@@ -47,7 +47,7 @@
 ## История обновлений
 - **[v1.0](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: официальный `.omlmod` с тремя вкладками, установщик для Windows, скрипт для Steam Deck / Linux, чистый пакет CheatMod и таблица `.CT`.
 
-[Все релизы](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
+[Все релизы](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn) · [Каталог с поиском](https://neoru-droid.github.io/)
 
 ## Лицензия
 [MIT](LICENSE)
