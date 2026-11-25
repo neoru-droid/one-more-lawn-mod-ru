@@ -47,7 +47,7 @@
 ## История обновлений
 - **[v1.0](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** - первый публичный выпуск: официальный `.omlmod` с тремя вкладками, установщик для Windows, скрипт для Steam Deck / Linux, чистый пакет CheatMod и таблица `.CT`.
 
-[Все релизы](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)
+[Все релизы](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases) · [Каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Каталог с поиском](https://neoru-droid.github.io/)
 
 ## Лицензия
 [MIT](LICENSE)
