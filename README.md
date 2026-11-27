@@ -3,9 +3,10 @@
 Скорость косилки `x2.5`, широкая дека `4.4 м`, бесконечное топливо, покос участка `18x18 м`, деньги и смена погоды + таблица `.CT` (`v1.0`, версия `1.0.3`, Windows и Steam Deck).
 
 ## Скачать
-- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn)**
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433)**
 - **[Архивы на GitHub Releases](https://github.com/neoru-droid/one-more-lawn-mod-ru/releases/tag/v1.0.0)** · [Как установить](#установка)
-- **Ранний доступ и заказ своей игры:** новинки на 48 ч раньше от `120 ₽`, своя игра в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **Новые релизы и заказ своей игры на [Boosty](https://boosty.to/cd_tixo):** подписка `120 ₽/мес` на все релизы или разовый пост `150 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽`.
+- **Обновления и новые релизы в Telegram:** [@neoru_droid](https://t.me/neoru_droid)
 
 ![One More Lawn - Мод-меню](docs/screenshots/cover_wide.png)
 
@@ -28,4 +29,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/one-more-lawn-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=one_more_lawn) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
